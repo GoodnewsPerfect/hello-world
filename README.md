@@ -1,2 +1,2 @@
 # hello-world
-Hello world is common phrase used in programming.
+Hello world is a common phrase used in programming.
